@@ -8,7 +8,7 @@ Please use the integrated Terminal in GitHub Codespaces for all CLI commands.
 
 ---
 
-### Phase 0: Environment Setup (Crucial First Step)
+### Environment Setup 
 Before fixing any code, we must set up a safe execution environment. Modern Linux containers restrict global package installations to prevent system corruption (PEP 668). Therefore, we need an isolated virtual environment.
 
 1. Open the Terminal in your Codespace.
@@ -90,6 +90,6 @@ If everything runs fine you can download your finished project and push it into 
 
 Binder link for your `README`: 
 
-`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/F4c3hugg3r/reproducable-jupyter-notebook/main)`
+`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-GITHUB-NAME/YOUR-REPO-NAME/BRANCH-NAME)`
 
 *(Note: Remember to replace the details in the link above with your own repository details!)*
